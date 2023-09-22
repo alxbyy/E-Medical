@@ -1,2 +1,2 @@
 # Apotek
-Project UAS PBO
+Project Pemrograman Berorientasi Objek
